@@ -1,0 +1,65 @@
+*{margin: 0;
+padding: 8px;
+box-sizing: border-box;}
+.nav-link{
+    color: black !important;
+}
+.nav-link:hover{
+    color: chartreuse !important;
+}
+.real{
+    color: aliceblue;
+    padding: 180px;
+    font-style: italic ;
+    font-size: 26px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.slider{
+    padding-top: 50px;
+}
+.carousel-indicators{
+    color: antiquewhite !important;
+}
+.about{
+    padding: 50px;
+}
+.bl-about{
+    justify-content: center;
+    align-items: center;
+}
+.cake{
+    padding: 0;
+}
+.type{
+    text-align: center;
+}
+.row{
+    text-align: center;
+}
+.service{
+    text-align: center;
+    padding: 72px;
+}
+.faq{
+    text-align: center;
+}
+.quest{
+    padding: 50px;
+}
+  .contact{
+    padding: 50px;
+  }
+  .footer{
+    background-image: url(./image/foot.avif);
+  }
+  .foot{
+    color: white;
+    text-align: center;
+    padding: 77px;
+  }
+  .icon{
+    padding: 0px;
+  }
+  .copy{
+    text-align: center;
+  }
